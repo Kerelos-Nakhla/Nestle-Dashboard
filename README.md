@@ -154,22 +154,22 @@ CALCULATE(
 
 ### 1. Landing Page
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kerelos-Nakhla/Nestle-Dashboard/f79d8cbd1b322dc7a11d90ae79d2ed9884df1730/Landing%20Page.png" alt="Cookies & Chocolate Sales Performance — Landing Page" width="95%">
+  <img src="./Dashboard%20Previews/Landing%20Page.png" alt="Cookies & Chocolate Sales Performance — Landing Page" width="95%">
 </p>
 
 ### 2. Overview Dashboard — Page 1
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kerelos-Nakhla/Nestle-Dashboard/f79d8cbd1b322dc7a11d90ae79d2ed9884df1730/1-%20Overview%20Page.png" alt="Cookies & Chocolate Sales Performance — Overview Dashboard, Page 1" width="95%">
+  <img src="./Dashboard%20Previews/1-%20Overview%20Page.png" alt="Cookies & Chocolate Sales Performance — Overview Dashboard, Page 1" width="95%">
 </p>
 
 ### 3. Overview Dashboard — Page 2
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kerelos-Nakhla/Nestle-Dashboard/f79d8cbd1b322dc7a11d90ae79d2ed9884df1730/2-%20Overview%20Page.png" alt="Cookies & Chocolate Sales Performance — Overview Dashboard, Page 2" width="95%">
+  <img src="./Dashboard%20Previews/2-%20Overview%20Page.png" alt="Cookies & Chocolate Sales Performance — Overview Dashboard, Page 2" width="95%">
 </p>
 
 ### 4. Enterprise Star Schema Data Model
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kerelos-Nakhla/Nestle-Dashboard/f79d8cbd1b322dc7a11d90ae79d2ed9884df1730/Model.png" alt="Cookies & Chocolate Sales Performance — Power BI Data Model" width="95%">
+  <img src="./Dashboard%20Previews/Model.png" alt="Cookies & Chocolate Sales Performance — Power BI Data Model" width="95%">
 </p>
 
 *The dashboard pages present the sales overview and supporting analysis, while the model view documents the underlying Power BI data architecture.*
