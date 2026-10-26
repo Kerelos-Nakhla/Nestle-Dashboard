@@ -152,19 +152,27 @@ CALCULATE(
 
 ## 🖼️ Dashboard Visual Tour & Storytelling
 
-### 1. Executive Overview Dashboard
+### 1. Landing Page
 <p align="center">
-  <img src="./Dashboard%20Previews/Overview%20Page.jpg" alt="Cookies & Chocolate Sales Performance — Overview Dashboard" width="95%">
+  <img src="https://raw.githubusercontent.com/Kerelos-Nakhla/Nestle-Dashboard/f79d8cbd1b322dc7a11d90ae79d2ed9884df1730/Landing%20Page.png" alt="Cookies & Chocolate Sales Performance — Landing Page" width="95%">
 </p>
 
-*The overview page synthesizes KPI cards (Total Revenue, Total Profit, Profit Margin %, Count Orders), an Area Chart for date drill-down, a Product Revenue Column Chart, a State-level Bar Chart, and a YoY Target KPI indicator.*
-
-### 2. Enterprise Star Schema Data Model
+### 2. Overview Dashboard — Page 1
 <p align="center">
-  <img src="./Dashboard%20Previews/Model.png" alt="Cookies & Chocolate Sales Performance — Power BI Data Model" width="95%">
+  <img src="https://raw.githubusercontent.com/Kerelos-Nakhla/Nestle-Dashboard/f79d8cbd1b322dc7a11d90ae79d2ed9884df1730/1-%20Overview%20Page.png" alt="Cookies & Chocolate Sales Performance — Overview Dashboard, Page 1" width="95%">
 </p>
 
-*Normalized dimensional model connecting central transactional orders with customer, product, date, and measure calculation tables.*
+### 3. Overview Dashboard — Page 2
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kerelos-Nakhla/Nestle-Dashboard/f79d8cbd1b322dc7a11d90ae79d2ed9884df1730/2-%20Overview%20Page.png" alt="Cookies & Chocolate Sales Performance — Overview Dashboard, Page 2" width="95%">
+</p>
+
+### 4. Enterprise Star Schema Data Model
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kerelos-Nakhla/Nestle-Dashboard/f79d8cbd1b322dc7a11d90ae79d2ed9884df1730/Model.png" alt="Cookies & Chocolate Sales Performance — Power BI Data Model" width="95%">
+</p>
+
+*The dashboard pages present the sales overview and supporting analysis, while the model view documents the underlying Power BI data architecture.*
 
 ---
 
